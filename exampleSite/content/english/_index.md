@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Dejanos resolver <br> development challenges"
+  title : "Este sitio se encuentra <br> en construccion.."
   image : "images/banner-art.svg"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
   button:
